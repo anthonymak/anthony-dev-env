@@ -13,8 +13,8 @@ How to run:
 
   If you are on Window machine,
   
-1. First install Docker for Window
-2. Optionally, install WSL
+1. First install [Docker for Window](https://docs.docker.com/desktop/windows/install/)
+2. Optionally, [install WSL](https://www.youtube.com/watch?v=X-DHaQLrBi8)
 
  ```
  (Only once)
