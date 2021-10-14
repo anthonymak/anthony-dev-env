@@ -4,6 +4,7 @@
 Purpose of this docker file is so that I (Anthony) have a portable development environment that I can bring to any new environment and I will have all the software tools that I need and also the linux environment will be configured the way I want.
 1. Allows one to run Linux inside Windows  (by running Docker in Windows)
 2. Allows one to have a portable development environment (by Dockerizing environment)
+3. You can have your own Dockerfile to customize to your own portable development environment VERY EASY!
 
 Reference:
 - https://www.youtube.com/watch?v=CGCn0b4FOfs&list=WL
